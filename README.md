@@ -14,3 +14,5 @@
       return Math.floor(Math.random() * (max - min)) + min;
     }
     </script>
+  </body>
+</html>
